@@ -24,5 +24,8 @@
     <ClCompile Include="2.94排列型枚举-1-递归.cpp">
       <Filter>源文件\Acwing</Filter>
     </ClCompile>
+    <ClCompile Include="3.93.cpp">
+      <Filter>源文件\Acwing</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
