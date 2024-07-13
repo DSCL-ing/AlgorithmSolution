@@ -142,6 +142,7 @@
     <ClCompile Include="1.92指数型枚举-1-递归.cpp" />
     <ClCompile Include="2.94排列型枚举-1-递归.cpp" />
     <ClCompile Include="3.93.cpp" />
+    <ClCompile Include="点击消除.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
